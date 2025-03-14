@@ -65,6 +65,7 @@ Participants will learn how to:
 
 ## Contributors
 
+- [Rick Caudle](https://github.com/Rickcau)
 - [Chris McKee](https://github.com/ChrisMcKee1)
 - [Randy Patterson](https://github.com/RandyPatterson)
 - [Zack Way](https://github.com/seiggy)
