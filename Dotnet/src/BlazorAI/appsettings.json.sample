@@ -1,0 +1,8 @@
+"AOI_DEPLOYMODEL": "gpt-4o",
+  "AOI_ENDPOINT": "https://<your-endpoint>.openai.azure.com/",
+  "AOI_API_KEY": "<your-key>",
+  "EMBEDDINGS_DEPLOYMODEL": "text-embedding-ada-002",
+  "DALLE_DEPLOYMODEL": "dall-e-3",
+  "GEOCODING_API_KEY": "<your-key>",
+  "AI_SEARCH_URL": "https://<your-endpoint>.search.windows.net",
+  "AI_SEARCH_KEY": "<your-key>"
